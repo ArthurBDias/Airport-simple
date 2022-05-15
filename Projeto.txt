@@ -1,0 +1,26 @@
+sobre uma empressa que oferece
+planos de passeio turisticos
+
+colocar a primeira letra do 
+paragrafo grnade com em um livro
+
+
+todps os slides terão efetito do texto parecendo
+
+serão 4 "slides" o Primeiro com maior titulo uma imagem
+ e um paragrafo de apresentação e logo da emprssa
+com o fundo de varias imagens 
+
+o segundo um pequeno subtitulo com flex box com cards sobre 
+o tera no peassei com o "aproveite a comida tipica"
+ e uma imagem de um prato acima
+
+O terceiro tera um video profissional sobre pessoas 
+aproveitando o passeio e se divertindo 
+
+ a ultima tela tera um botão de coneça nossos 
+planos dde viajem
+
+
+
+
